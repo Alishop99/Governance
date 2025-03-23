@@ -1,5 +1,5 @@
 <?php
-include '/home/alib8113/sp08/db.php';
+include '/..../..../.../db.php';
 $vote_choice = $_POST['vote_choice'] ?? '';
 $wallet_address = $_POST['wallet_address'] ?? '';
 $voting_power = $_POST['voting_power'] ?? 0;
