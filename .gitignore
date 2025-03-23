@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment config
+db.php
+.env
+
+# Ignore IDE settings
+.vscode/
+.idea/
